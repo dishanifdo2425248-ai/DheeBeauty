@@ -1,0 +1,112 @@
+body{
+    background-color:rgba(189, 179, 97, 0.779);height: 1800px;
+}
+#one{
+height: 60px;width: 1513px;background-color: rgb(232, 179, 88);position: absolute;top: 0px;right: 0px;left: 0px;
+
+}
+.omg{
+    font-size: 18px;position: absolute;left: 150px;top: 20px;
+}
+.o{
+font-size: 18px;position: absolute;left: 350px;top: 20px;
+}
+.oo{
+font-size: 18px;position: absolute;left: 550px;top: 20px;
+}
+.ooo{
+font-size: 18px;position: absolute;left: 820px;top: 20px;
+ }
+.oooo{
+font-size: 18px;position: absolute;left: 1100px;top: 20px;
+}
+.ooooo{
+font-size: 18px;position: absolute;left: 1340px;top: 20px;
+}
+.e{
+position: absolute;top: 5px;
+}
+.a{
+position: absolute;top: 60px;
+}
+a{
+text-decoration: none;
+}
+.b{
+position: absolute;top: 300px;font-size: 60px; font-weight: bold;left: 30px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.c{
+position: absolute;top: 400px;left: 30px;font-style: italic;font-weight: bold;
+}
+#two{
+height: 100px;width: 1520px;background-color: aliceblue;position: absolute;top: 730px;right: 0px;
+}
+.d{
+position: absolute;top: 30px;left: 300px;font-size: 30px;font-family: Arial, Helvetica, sans-serif;right: 100px;
+}
+.f{
+position: absolute;top: 100px;
+}
+.g{
+position: absolute;top: 100px;left: 600px;
+}
+.aa{
+position: absolute;top: 1510px;left: 200px;
+}
+.bb{
+position: absolute;top: 1560px;left: 200px;
+}
+.cc{
+position: absolute;top: 1600px;left: 200px;
+}
+.ee{
+position: absolute;top: 1640px;left:200px
+}
+.ff{
+position: absolute;top: 1680px;left: 200px;
+}
+.gg{
+    color: rgb(70, 55, 4);
+}
+.hh{
+color: rgb(155, 130, 7) ;
+}
+.ii{
+position: absolute;top: 1510px;left: 500px;
+}
+.jj{
+position: absolute;top: 1560px;left: 500px;
+}
+.kk{
+position: absolute;top: 1600px;left: 500px;
+}
+.ll{
+position: absolute;top: 1640px;left: 500px;
+}
+.mm{
+position: absolute;top: 1680px;left: 500px;
+}
+.nn{
+position: absolute;top: 1510px;left: 800px;
+}
+.rr{
+position: absolute;top: 1560px;left: 800px
+}
+.pp{
+position: absolute;top: 1600px;left: 800px
+}
+.qq{
+position: absolute;top: 1640px;left: 800px
+}
+.ss{
+position: absolute;top: 1510px;left: 1100px;
+}
+.tt{
+position: absolute;top: 1560px;left: 1100px
+}
+.uu{
+position: absolute;top: 1600px;left: 1100px
+}
+.aaa{
+    color: brown;
+}
